@@ -1,0 +1,25 @@
+.third{
+    height:100vh ;
+    display: grid;
+    justify-content: center;
+    place-items: center; 
+    background-color: rgba(235, 236, 232, 0.824);
+ 
+}
+.our-bread{
+    margin: 720px;
+}
+.third-group{
+   display: grid;
+   grid-template-rows: 2fr 2fr 2fr 2fr;
+   color: blue;
+
+}
+.group{
+    border: 1px solid rgb(237, 235, 235)
+}
+.img{
+    width: 15%;
+
+    border-radius: 10px;
+}
