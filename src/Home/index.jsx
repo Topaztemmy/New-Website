@@ -1,6 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import {FaBars, FaTimes} from "react-icons/fa";
+import {FaBars} from "react-icons/fa";
 import "./index.css"
 
 export default function Home(){

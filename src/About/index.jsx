@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.css";
-import Bake from "../Bake";
+
 
 export default function Body(){
   const  myMenu =(
